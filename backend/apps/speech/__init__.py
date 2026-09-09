@@ -1,0 +1,1 @@
+﻿# Speech app init
