@@ -5,11 +5,8 @@ export function Navbar({ currentPage, onNavigate }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const navItems = [
-    { id: "landing", label: "Overview" },
     { id: "conversation", label: "Live Conversation" },
     { id: "technology", label: "Architecture & FSM" },
-    { id: "evaluation", label: "Benchmark Suite" },
-    { id: "about", label: "Team & Ethics" },
   ];
 
   return (
@@ -29,12 +26,10 @@ export function Navbar({ currentPage, onNavigate }) {
               <span className="font-extrabold text-xl tracking-tight text-white group-hover:text-cyan-400 transition-colors">
                 SIGNBRIDGE
               </span>
-              <span className="px-1.5 py-0.5 text-[10px] font-mono tracking-wider font-semibold rounded bg-cyan-500/20 text-cyan-300 border border-cyan-500/30">
-                RIME CODA
-              </span>
+              
             </div>
             <p className="text-[11px] text-slate-400 tracking-tight -mt-0.5 hidden sm:block">
-              Communication without a barrier.
+              Sign-Language interpretation
             </p>
           </div>
         </div>
