@@ -1,7 +1,7 @@
 # SignBridge
 
 > **One conversation. Two languages. Zero interpreters.**  
-> *"Communication without a barrier."*
+
 
 SignBridge is an AI-powered real-time, two-way communication system engineered to enable seamless conversation between a Deaf or hard-of-hearing sign language user and a hearing interlocutor who does not understand sign language.
 
@@ -19,7 +19,6 @@ Traditional assistive tools are fundamentally deficient:
 - **Screen-Tethered:** Hearing participants are forced to stare down at a smartphone transcript rather than maintaining natural eye contact.
 - **Interpreters:** Professional human interpreters require advance scheduling, high expense, and eliminate privacy.
 
----
 
 ## The Solution & Necessity of Voice
 
